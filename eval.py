@@ -4,7 +4,7 @@ import re
 import numpy as np
 import pandas as pd
 import math
-from utils.utils import *
+from utils import *
 
 def calculate_direction(point1, point2):
     x1, y1 = point1
