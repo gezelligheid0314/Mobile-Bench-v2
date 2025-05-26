@@ -1,5 +1,5 @@
 # MobileBenchV2
-
+All the code is placed in the branch of mobilebenchv2.
 This repo contains the evaluation codes for the benchmark: [xwk123/MobileBench-v2 · Datasets at Hugging Face](https://huggingface.co/datasets/xwk123/MobileBench-v2)
 
 ```text
